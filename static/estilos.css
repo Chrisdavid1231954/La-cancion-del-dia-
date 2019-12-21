@@ -1,0 +1,78 @@
+body {
+    background-image: url(imagenes/fondo1.jpeg);
+}
+
+.encabezado {
+    margin-top: 10px;
+    margin-left: 10%;
+    text-align: center;
+    margin-left: 0px;
+    font-size: 28px;
+    font-family: fantasy;
+}
+
+.contenedor {
+    
+    background-image: url(imagenes/imagen2.jpeg);
+    border: 2px solid black;
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 10%;
+    box-sizing: border-box;
+    border-radius: 5%;
+}
+
+#perfil {
+    box-sizing: border-box;
+    border-radius: 50%;
+    width: 50%;
+    margin-left: 25%;
+    border: 1px solid black;
+    box-shadow: 10px 10px 10px black;
+    margin-bottom: 20px;
+}
+
+#descripcion {
+    
+    background-image: url(imagenes/imagen6.jpeg);
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 90%;
+    margin-left: 5%;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    padding-top: 0%;
+    text-align: justify;
+    border-radius: 5%;
+    box-shadow: 10px 10px 10px black;
+    margin-bottom: 20px;
+}
+
+.canciones {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    background-image: url(imagenes/imagen1.jpeg);
+    background-size: 50%;
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    padding-top: 2%;
+    text-align: justify;
+    border-radius: 5%;
+    box-shadow: 10px 10px 10px black;
+}
+
+.video {
+    box-sizing: border-box;
+    margin: 0px; 
+    
+   
+    
+   
+}
